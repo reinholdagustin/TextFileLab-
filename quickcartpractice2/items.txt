@@ -1,0 +1,4 @@
+Milk,80
+Bread,65
+Eggs,120
+Coffee,150
